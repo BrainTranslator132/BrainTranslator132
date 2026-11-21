@@ -3,7 +3,7 @@
 <img align="right" width="120" src="https://cdn.jsdelivr.net/gh/BrainTranslator132/ImageHosting@main/images/b49e10c4dc37426159ab3e7903bcbc82_origin(1).jpg" />
 <p>&emsp;&emsp;嗨，我是BrainTranslator132。热爱看B站，学习新知识。</p>
 <p>&emsp;&emsp;想在有生之年内实现社会物质与精神极大富足，现阶段希望能通过计算机将这条路走下去......</p>
-<p>&emsp;&emsp;现学习学习后端方向，用来夯实基础，未来方向随自身水平与时代变化而动......</a></p>
+<p>&emsp;&emsp;现学习后端方向，用来夯实基础，未来方向随自身水平与时代变化而动......</a></p>
 <p>&emsp;&emsp;事物发展总是螺旋式上升</p>
 <p>&emsp;&emsp;<strong>The development of things always progresses in a spiral upward manner.</strong></p>
 
